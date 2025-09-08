@@ -40,5 +40,20 @@ docs/ # Documentación extendida
 
 ---
 
+## 📊 Resultados iniciales
+
+Este repositorio ya incluye un primer análisis basado en los datos **YEARLY** de ElectricityMaps (2021–2023).  
+
+### 🔗 Archivos principales
+- [Notebook exploratorio (2021–2023)](notebooks/electricitymaps-argentina-exploraci-n-inicial.ipynb)  
+- [Dataset procesado anual (2021–2023)](electricitymaps_yearly_summary_2021_2023.csv)  
+
+### 📑 Hallazgos preliminares
+- El porcentaje de **energías renovables** subió de **27% (2021)** a **43% (2023)**.  
+- La energía **libre de carbono (CFE%)** pasó de **34% a casi 50%** en el mismo período.  
+- La **intensidad de carbono** mostró un pico en 2022 (~325 gCO₂eq/kWh) antes de bajar en 2023 (~293 gCO₂eq/kWh).  
+
+👉 Próximo paso: incorporar datos **horarios o diarios** para analizar estacionalidad mensual y patrones intra-anuales.
+
 
 
