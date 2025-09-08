@@ -1,0 +1,2 @@
+Datetime (UTC),Country,Zone name,Zone id,Carbon intensity gCO₂eq/kWh (direct),Carbon intensity gCO₂eq/kWh (Life cycle),Carbon-free energy percentage (CFE%),Renewable energy percentage (RE%),Data source,Data estimated,Data estimation method
+2021-01-01 00:00:00,Argentina,Argentina,AR,260.33,348.21,34.46,27.39,portalweb.cammesa.com; Electricity Maps Estimation,true,ESTIMATED_TIME_SLICER_AVERAGE
