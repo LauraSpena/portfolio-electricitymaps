@@ -51,9 +51,16 @@ Este repositorio ya incluye un primer análisis basado en los datos **YEARLY** d
 ### 📑 Hallazgos preliminares
 - El porcentaje de **energías renovables** subió de **27% (2021)** a **43% (2023)**.  
 - La energía **libre de carbono (CFE%)** pasó de **34% a casi 50%** en el mismo período.  
-- La **intensidad de carbono** mostró un pico en 2022 (~325 gCO₂eq/kWh) antes de bajar en 2023 (~293 gCO₂eq/kWh).  
+- La **intensidad de carbono** mostró un pico en 2022 (~325 gCO₂eq/kWh) antes de bajar en 2023 (~293 gCO₂eq/kWh).
+
+- [Evolución de renovables y energía libre de carbono]-[https://drive.google.com/drive/folders/1r4DFYbaIS9uAOXkpe12YJySnBqkZfKit?usp=share_link]
 
 👉 Próximo paso: incorporar datos **horarios o diarios** para analizar estacionalidad mensual y patrones intra-anuales.
+
+📌 Este proyecto forma parte de mi portfolio como analista de datos.  
+Otros proyectos en: [mi perfil de GitHub](https://github.com/LauraSpena).  
+
+
 
 
 
